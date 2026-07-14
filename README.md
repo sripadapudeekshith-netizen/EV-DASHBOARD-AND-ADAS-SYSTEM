@@ -1,4 +1,5 @@
 
+<img width="1526" height="811" alt="Screenshot 2026-07-14 121441" src="https://github.com/user-attachments/assets/723a40ac-2b18-421c-940f-3daf6f0ad367" />
 
 
 # TECHNICAL DOCUMENTATION REPORT
