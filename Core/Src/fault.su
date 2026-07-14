@@ -1,0 +1,3 @@
+../Core/Src/fault.c:6:6:Fault_Init	16	static
+../Core/Src/fault.c:12:6:Fault_Check	32	static
+../Core/Src/fault.c:48:6:Fault_Clear	16	static

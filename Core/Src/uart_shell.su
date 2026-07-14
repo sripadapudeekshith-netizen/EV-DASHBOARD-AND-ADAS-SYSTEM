@@ -1,0 +1,9 @@
+../Drivers/CMSIS/Include/core_cm3.h:1762:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Core/Src/uart_shell.c:20:13:rb_push	16	static
+../Core/Src/uart_shell.c:29:16:rb_pop	16	static
+../Core/Src/uart_shell.c:39:13:shell_tx	24	static
+../Core/Src/uart_shell.c:45:13:print_status	280	static
+../Core/Src/uart_shell.c:107:13:process_cmd	88	static
+../Core/Src/uart_shell.c:236:6:Shell_Init	24	static
+../Core/Src/uart_shell.c:252:6:Shell_PushByte	16	static
+../Core/Src/uart_shell.c:258:6:Shell_Process	16	static
